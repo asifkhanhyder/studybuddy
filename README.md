@@ -8,11 +8,11 @@ Students revise by re-reading notes, which feels productive but rarely reveals w
 
 ## Live URL
 
-🔗 **[PASTE YOUR VERCEL/GITHUB PAGES URL HERE]**
+🔗 **[https://studybuddy-czhv.vercel.app/]**
 
 ## GitHub repo
 
-🔗 **[PASTE YOUR PUBLIC REPO LINK HERE]**
+🔗 **[https://github.com/asifkhanhyder/studybuddy]**
 
 ## Features
 
